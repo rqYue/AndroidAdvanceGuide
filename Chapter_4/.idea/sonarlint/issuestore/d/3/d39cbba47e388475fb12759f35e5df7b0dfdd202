@@ -1,0 +1,9 @@
+
+O
+java:S11172"9Rename "table" which hides the field declared at line 22.(¥€í¥
+>
+java:S1604&"(Make this anonymous inner class a lambda(ÉãÃ®
+u
+java:S14883"_Immediately return this expression instead of assigning it to the temporary variable "mCursor".(¹úÉ 
+g
+java:S2095%"JUse try-with-resources or close this "DbOpenHelper" in a "finally" clause.(¼ğÊû8“­›¢ò0

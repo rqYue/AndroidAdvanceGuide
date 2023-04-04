@@ -1,0 +1,14 @@
+
+g	java:S116"RRename this field "bt_send" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ’â¶
+o	java:S116"URename this field "et_receive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÚÅÓüÿÿÿÿ
+j	java:S116"URename this field "tv_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óû’á
+l
+java:S1450"VRemove the "bt_send" field and declare it as a local variable in the relevant methods.(ğ’â¶
+q
+java:S1450"\Remove the "mClientSocket" field and declare it as a local variable in the relevant methods.(™°®J
+F
+java:S1068"1Remove this unused "mClientSocket" private field.(™°®J
+C
+java:S16042"(Make this anonymous inner class a lambda(ÚÇÁ…ûÿÿÿÿ
+C
+java:S1604X"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
